@@ -4,7 +4,7 @@
 
 ### *HERE IS SBLACK*
 
-### *git clone *
+### *git clone https://github.com/sblack619/TEAM_SBLACK*
 
 ### *cd DDos-Attack*
 
