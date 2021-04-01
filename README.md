@@ -1,18 +1,18 @@
 ### _______SBLACK______TEAM_______
 
-### CREATE BY KING AND SENPAI
+### *CREATE BY KING AND SENPAI*
 
-### Dwonload&Install
+### *HERE IS SBLACK*
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### *git clone *
 
-### cd DDos-Attack
+### *cd DDos-Attack*
 
-### chmod +x ddos-attack.py
+### *chmod +x ddos-attack.py*
 
-### python ddos-attack.py
+### *python ddos-attack.py*
 
-### ScreenShot 
+
 
 
 
