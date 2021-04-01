@@ -4,13 +4,13 @@
 
 ### *HERE IS SBLACK*
 
-### *git clone https://github.com/sblack619/TEAM_SBLACK*
+### 1) *git clone https://github.com/sblack619/TEAM_SBLACK*
 
-### *cd DDos-Attack*
+### 2) *cd TEAM_SBLACK*
 
-### *chmod +x ddos-attack.py*
+### 3) *chmod +x TEAM_SBLACK.py*
 
-### *python ddos-attack.py*
+### 4) *python TEAM_SBLACK.py*
 
 
 
