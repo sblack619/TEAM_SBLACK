@@ -20,8 +20,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : SBLACK"
-print "NAME TEAM: SENPAI AND MR KING "
+print "Author   : MR KING / SENPAI "
+print "NAME TEAM: THE BLACK SQUAD  "
 
 print
 ip = raw_input("IP Target : ")
