@@ -8,9 +8,7 @@
 
 ### 2) *cd TEAM_SBLACK*
 
-### 3) *chmod +x TEAM_SBLACK.py*
-
-### 4) *python TEAM_SBLACK.py*
+### 3) *python TEAM_SBLACK.py*
 
 
 
